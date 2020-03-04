@@ -1786,10 +1786,194 @@ body {
   padding-top: 90px;
   padding-bottom: 90px;
 }
-.cid-roA9w9HjOk {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/edoardo-busti-413350-unsplash-2000x1330.jpg");
+.cid-rSeOphRu74 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-4-1920x1280.jpg");
+}
+.cid-rSeOphRu74 .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rSeOphRu74 .container-table {
+  margin: 0 auto;
+}
+.cid-rSeOphRu74 .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-rSeOphRu74 .dataTables_wrapper {
+  display: block;
+}
+.cid-rSeOphRu74 .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-rSeOphRu74 .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-rSeOphRu74 table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #7f1933;
+  margin-bottom: 0;
+}
+.cid-rSeOphRu74 table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-rSeOphRu74 table th:hover {
+  background: #7f1933;
+  color: #ffffff;
+}
+.cid-rSeOphRu74 table td {
+  border-top: 1px solid #7f1933;
+}
+.cid-rSeOphRu74 table.table {
+  background: #efefef;
+}
+.cid-rSeOphRu74 .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-rSeOphRu74 .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-rSeOphRu74 .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-rSeOphRu74 .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-rSeOphRu74 .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-rSeOphRu74 .dataTables_filter {
+    text-align: center;
+  }
+  .cid-rSeOphRu74 .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-rSeOphRu74 .head-item {
+  color: #7f1933;
+}
+.cid-rSeOphRu74 .body-item {
+  color: #232323;
+  text-align: left;
+}
+.cid-rSeOphRu74 .mbr-section-title I {
+  color: #ffffff;
+}
+.cid-rSeY3x4qzO {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-4-1920x1280.jpg");
+}
+.cid-rSeY3x4qzO .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rSeY3x4qzO .container-table {
+  margin: 0 auto;
+}
+.cid-rSeY3x4qzO .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-rSeY3x4qzO .dataTables_wrapper {
+  display: block;
+}
+.cid-rSeY3x4qzO .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-rSeY3x4qzO .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-rSeY3x4qzO table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #7f1933;
+  margin-bottom: 0;
+}
+.cid-rSeY3x4qzO table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-rSeY3x4qzO table th:hover {
+  background: #7f1933;
+  color: #ffffff;
+}
+.cid-rSeY3x4qzO table td {
+  border-top: 1px solid #7f1933;
+}
+.cid-rSeY3x4qzO table.table {
+  background: #efefef;
+}
+.cid-rSeY3x4qzO .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-rSeY3x4qzO .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-rSeY3x4qzO .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-rSeY3x4qzO .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-rSeY3x4qzO .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-rSeY3x4qzO .dataTables_filter {
+    text-align: center;
+  }
+  .cid-rSeY3x4qzO .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-rSeY3x4qzO .head-item {
+  color: #7f1933;
+}
+.cid-rSeY3x4qzO .body-item {
+  color: #232323;
+  text-align: left;
+}
+.cid-rSeY3x4qzO .mbr-section-title I {
+  color: #ffffff;
+}
+.cid-rSeZ5ISKaJ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-4-1920x1280.jpg");
+}
+.cid-rSeZ5ISKaJ .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rSeZ5ISKaJ .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-rrgMQUX6gY {
   padding-top: 90px;
